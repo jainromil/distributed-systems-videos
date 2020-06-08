@@ -1,6 +1,6 @@
 # Distributed Systems Videos
 
-This repository contains links to videos I find interesting and talk about distributed systems or scaling infrastructure to meet growing demands.
+This repository contains links to videos that I find interesting and talk about distributed systems or scaling infrastructure to meet growing demands.
 
 
 ## Links to real world architectures
