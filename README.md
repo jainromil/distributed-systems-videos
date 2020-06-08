@@ -4,8 +4,8 @@ This repository contains links to videos that I find interesting and talk about 
 
 
 ## Links to real world architectures
-- [ ] [Building Billion user Load Balancer at Facebook](www.youtube.com/watch?v=bxhYNfFeVF4) 
-- [ ] [Netflix Guide to Microservices](www.youtube.com/watch?v=CZ3wIuvmHeM)
+1. [Building Billion user Load Balancer at Facebook](www.youtube.com/watch?v=bxhYNfFeVF4) 
+2. [Netflix Guide to Microservices](www.youtube.com/watch?v=CZ3wIuvmHeM)
 3. [Caching at Netflix: The Hidden Microservice](https://www.youtube.com/watch?v=Rzdxgx3RC0Q)
 4. [Scaling the Netflix Global CDN](https://www.youtube.com/watch?v=tbqcsHg-Q_o)
 5. [Scaling Facebook Live Videos to a Billion Users](https://www.youtube.com/watch?v=IO4teCbHvZw)
