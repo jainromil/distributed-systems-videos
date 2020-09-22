@@ -38,11 +38,6 @@ This repository contains links to videos that I find interesting and talk about 
 7. [AWS re:Invent 2017: Which Database to Use When?](https://www.youtube.com/watch?v=KWOSGVtHWqA)
 8. [What I Wish I Had Known Before Scaling Uber to 1000 Services](https://www.youtube.com/watch?v=kb-m2fasdDY)
 
-## System Design Resources
-1. [System Design Interviews Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos)
-2. [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
-3. [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
-
 ## Company Developer Channels:
 1. [Facebook Developers](https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw)
 2. [Uber Engineering](https://www.youtube.com/channel/UCQlvjgieHGgkpP_9GiVyTGw/featured)
